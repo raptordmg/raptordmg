@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Wallace=======================================================================================================================================BEng Software Engineering Graduate----------------------------------I am a Software Engineering Graduate looking to find my first job in Software Development with past experience using Java, Python, PHP, HTML, CSS, SQL, JavaScript and C++* 🌍  I'm based in Stirling, UK
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Wallace
+=======================================================================================================================================
+
+BEng Software Engineering Graduate
+----------------------------------
+
+I am a Software Engineering Graduate looking to find my first job in Software Development with past experience using Java, Python, PHP, HTML, CSS, SQL, JavaScript and C++
+
+*   🌍  I'm based in Stirling, UK
 
 ### Skills
 
